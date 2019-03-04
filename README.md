@@ -1,22 +1,13 @@
 # zhouxy.github.io
-系统分析与设计第一次作业
-1.软件工程的定义
+# 系统分析与设计第一次作业
+## 1.软件工程的定义
 
-Software engineering is “(1) the application of a systematic,
-disciplined, quantifiable approach to the development, operation, and
-maintenance of software, that is, the application of engineering to
-software,” and “(2) the study of approaches as in (1).” –– IEEE
-Standard 610.12
-Ans:
-
-软件工程的定义：
-
-(1) 将系统化、规范化、可度量的方法应用与软件的开发、运行和维护-的过程，即将工程化应用于软件中。
-(2) 对(1)中所述方法的研究。
+(1) 将系统化、规范化、可度量的方法应用与软件的开发、运行和维护-的过程，即将工程化应用于软件中。  
+(2) 对(1)中所述方法的研究。  
 软件工程知识体系:
 
 以高质量为目标，研究软件生产的过程模型、方法和工具
-2.解释导致 software crisis 本质原因、表现，述说克服软件危机的方法
+## 2.解释导致 software crisis 本质原因、表现，述说克服软件危机的方法
 
 软件危机（Software Crisis）是一个早期的计算机科学用语，指的是在给定时间内编写出可用和高效的程序的困难性。现在引申至指软件在开发和维护过程中出现的一系列严重的问题。
 在1972年，Edsger Dijkstra 指出计算能力约强大，编程越是大问题。因此导致软件危机的本质原因是计算机计算能力的迅速增长，以及计算机能力增长而导致软件需要处理和解决的问题具有更大的复杂性。也就是计算机计算能力的提高超过了程序员能够高效利用计算机的能力。
@@ -30,7 +21,7 @@ Ans:
 项目难以管理
 程序代码的后期维护存在困难
 软件无法完成并交付
-3.软件生命周期
+## 3.软件生命周期
 
 软件生命周期（Software Development LifeCycle）是指软件的产生直到成熟的全部过程。早期的软件生命周期受到瀑布模型的影响，因此通常定义为：
 
@@ -49,7 +40,7 @@ Ans:
 运行和维护
 常见的软件生命周期模型有原型模型、螺旋模型、迭代模型。
 
-4.SWEBoK 的 15 个知识域（An Overview of the SWEBOK Guide 请中文翻译其名称与简短说明）
+## 4.SWEBoK 的 15 个知识域（An Overview of the SWEBOK Guide 请中文翻译其名称与简短说明）
 
 SWEBOK V3中的15个知识域包括：
 
@@ -82,7 +73,7 @@ SWEBOK V3中的15个知识域包括：
 计算基础 Computing foundations
 数学基础 Mathematical foundations
 工程基础 Engineering foundations
-5.简单解释 CMMI 的五个级别。例如：Level 1 - Initial：无序，自发生产模式。
+## 5.简单解释 CMMI 的五个级别。例如：Level 1 - Initial：无序，自发生产模式。
 
 能力成熟度模型集成（英语：Capability Maturity Model Integration，简称CMMI或“希迈”）是一种改进过程的方法，其目的是协助提升组织的绩效。
 
@@ -106,6 +97,6 @@ Level 5 - Optimizing：优化管理级。
 
 过程的量化反馈和先进的新思想、新技术促使过程持续不断改进。
 
-6.用自己语言简述 SWEBok 或 CMMI （约200字）
+## 6.用自己语言简述 SWEBok 或 CMMI （约200字）
 
 SWEBok即软件工程知识体系指南（Guide to the Software Engineering Body of Knowledge)，是一个得到普遍认可的共识性软件工程本体知识结构。（其历史可追溯到1999年4月由发表的《软件工程知识本体结构》报告。报告的发布使人们达成了共识，即建立软件工程本体知识结构是解决如何验证软件工程工程师的资格、如何设置并检验软件工程相关课程等难题的答案。）SWEBok的目的是为软件工程学科的范围提供一致的认识，为支持该学科的本体知识提供指导。SWEBOK V3将软件工程学科的本体知识分为15个知识域，并对每个知识域中的重要概念和区别加以阐述说明。也就是说，SWEBok最大的贡献是将原本混杂的软件工程知识体系化，将原本存在的知识分类整理，最后形成一个具有共识性和方向性的指南。
